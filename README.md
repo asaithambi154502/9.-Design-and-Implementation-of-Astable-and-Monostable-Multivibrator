@@ -94,7 +94,17 @@ RA=7.2KΩ, RB= 3.6KΩ
 
 
   **TABULATION:**
- 
+
+
+ <img width="900" height="1600" alt="WhatsApp Image 2026-09-13 at 6 25 20 PM" src="https://github.com/user-attachments/assets/471d5057-3b3d-4286-b8b6-3ddd73185278" />
+<img width="900" height="1600" alt="WhatsApp Image 2026-09-13 at 6 25 19 PM (2)" src="https://github.com/user-attachments/assets/e74d9979-77d0-446c-928c-f03bd324fcb3" />
+
+**Graph**
+
+<img width="900" height="1600" alt="WhatsApp Image 2026-09-13 at 6 25 20 PM (1)" src="https://github.com/user-attachments/assets/7a68c599-29d2-43ac-8923-81a4692ccd09" />
+<img width="900" height="1600" alt="WhatsApp Image 2026-09-13 at 6 25 19 PM (3)" src="https://github.com/user-attachments/assets/310cd8bc-8b50-4186-b7e3-4b81e220ccbd" />
+
+
 
 
 
